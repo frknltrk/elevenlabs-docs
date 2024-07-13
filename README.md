@@ -38,6 +38,8 @@ The Dictation feature in ElevenLabs allows you to record your voice over _an aud
 6. **Generate Final Audio**:
    - Click the "Generate Audio (STS)" button to finalize your recording.
    - If this button is unclickable, it indicates that the associated script box is empty. Please type in the transcript manually in the associated script box to enable the button.
+  
+     ![Dictation Feature Location](https://github.com/frknltrk/elevenlabs-docs/blob/main/picture_4.png)
 
 #### Extra
 
