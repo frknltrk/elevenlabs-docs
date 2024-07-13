@@ -10,7 +10,9 @@ The Dictation feature in ElevenLabs allows you to record your voice over _an aud
 
 2. **Locate the Dictation Feature**:
    - Scroll down the right pane to find the Dictation section.
-   - You will see a round microphone icon for recording and the clip length information (as shown in the uploaded image "picture_1.png").
+   - You will see a round microphone icon for recording and the clip length information.
+   
+     ![Dictation Feature Location](https://github.com/frknltrk/elevenlabs-docs/blob/main/picture_1.png)
 
 #### Recording with Dictation
 
@@ -20,14 +22,18 @@ The Dictation feature in ElevenLabs allows you to record your voice over _an aud
    - Recording will commence immediately and will automatically stop when the clip length is reached.
 
 4. **Stop Recording Early**:
-   - If you wish to stop the recording before the clip ends, click the square stop icon (as shown in the uploaded image "picture_2.png").
+   - If you wish to stop the recording before the clip ends, click the square stop icon.
+
+     ![Dictation Feature Location](https://github.com/frknltrk/elevenlabs-docs/blob/main/picture_2.png)
 
 #### Post-Recording Options
 
 5. **Review Your Recording**:
-   - After finishing the recording, you will see three buttons: Play, Delete, and "Generate Audio (STS)" (as shown in the uploaded image "picture_3.png").
+   - After finishing the recording, you will see three buttons: Play, Delete, and "Generate Audio (STS)".
    - Use the Play button to listen to your recording.
    - If you are not satisfied with the recording, you can delete it by clicking the Delete button.
+  
+     ![Dictation Feature Location](https://github.com/frknltrk/elevenlabs-docs/blob/main/picture_3.png)
 
 6. **Generate Final Audio**:
    - Click the "Generate Audio (STS)" button to finalize your recording.
