@@ -1,6 +1,6 @@
+Extending: https://elevenlabs.io/docs/dubbing/studio
 ### Using the Dictation Feature for Speech-to-Speech (STS) in ElevenLabs
 
-Extending: https://elevenlabs.io/docs/dubbing/studio
 The Dictation feature in ElevenLabs allows you to record your voice over _an audio clip with or without an existing audio source_. Here’s a step-by-step guide on how to use this feature:
 
 #### Accessing the Dictation Feature
